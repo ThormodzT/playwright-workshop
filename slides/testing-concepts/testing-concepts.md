@@ -224,16 +224,6 @@ Instead of writing hundreds of unit tests, you'd focus on these **integration po
 
 ---
 
-## ⚖️ When to Use Implementation Detail Tests?
-
-Implementation detail tests can still be useful in **specific cases,** like:
-
-- **Complex internal logic** (e.g., parsing build logs for CI feedback).  
-- **Highly critical business logic** that requires precision.  
-- **Areas that rarely change**, reducing maintenance overhead.
-
-**Example:**  
-If you’re parsing log files from a CI/CD pipeline to provide meaningful feedback to developers, you’ll want highly focused tests that validate different log formats.
 
 ---
 
@@ -254,10 +244,6 @@ At the end of the day, testing is about **gaining confidence** in your software,
 > **Deliver reliable, high-quality software that users love.** ❤️
 
 ---
-
-
----
-
 ## 🤔 Why Automate Tests?
 
 Let's face it—manual testing is time-consuming, repetitive, and prone to human error. Automated testing allows us to:
