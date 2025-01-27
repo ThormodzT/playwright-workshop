@@ -61,7 +61,7 @@ It focuses on **what** the system should do from a user’s perspective rather t
 ### 🧩 Core BDD Concepts:
 
 1. **Scenarios:** Describe how features should behave in real-world situations.
-2. **Given-When-Then:** We already discuss this, **is The golden** rule of BDD.
+2. **Given-When-Then:** We already discussed this, **is The golden** rule of BDD.
 
 **Example Scenario (Login feature):**
 
