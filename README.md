@@ -7,17 +7,18 @@ Welcome to this Playwright workshop! In this session, we will cover the basics o
 ## 📖 Table of Contents
 
 1. [🔥 Testing Concepts - Why Automation?](https://github.com/ThormodzT/playwright-workshop/blob/main/slides/testing-concepts/testing-concepts.md)
-2. [🎭 What is Playwright? TODO](https://github.com/yourrepo/playwright-workshop/what-is-playwright.md)
-3. [🕵️ DOM & Selectors TODO](https://github.com/yourrepo/playwright-workshop/dom-selectors.md)
-4. [🚀 My First Automation Test TODO](https://github.com/yourrepo/playwright-workshop/first-test.md)
-5. [🏗️ Page Object Model - But Why? TODO](https://github.com/yourrepo/playwright-workshop/pom.md)
-6. [📂 Project Structure TODO](https://github.com/yourrepo/playwright-workshop/project-structure.md)
-7. [💡 Best Practices TODO](https://github.com/yourrepo/playwright-workshop/best-practices.md)
-8. [🔄 CI/CD Integration TODO](https://github.com/yourrepo/playwright-workshop/ci-cd.md)
-9. [🛠️ Practical Examples TODO](https://github.com/yourrepo/playwright-workshop/practical-examples.md)
-10. [🐞 Debugging Tips TODO](https://github.com/yourrepo/playwright-workshop/debugging.md)
-11. [📊 Reporting & Metrics TODO](https://github.com/yourrepo/playwright-workshop/reporting.md)
-12. [🔗 Useful Resources TODO](https://github.com/yourrepo/playwright-workshop/resources.md)
+2. [🤔 How to identify and write test cases?](https://github.com/ThormodzT/playwright-workshop/blob/main/slides/testing-concepts/identify-test-cases.md)
+3. [🎭 What is Playwright? TODO](https://github.com/yourrepo/playwright-workshop/what-is-playwright.md)
+4. [🕵️ DOM & Selectors TODO](https://github.com/yourrepo/playwright-workshop/dom-selectors.md)
+5. [🚀 My First Automation Test TODO](https://github.com/yourrepo/playwright-workshop/first-test.md)
+6. [🏗️ Page Object Model - But Why? TODO](https://github.com/yourrepo/playwright-workshop/pom.md)
+7. [📂 Project Structure TODO](https://github.com/yourrepo/playwright-workshop/project-structure.md)
+8. [💡 Best Practices TODO](https://github.com/yourrepo/playwright-workshop/best-practices.md)
+9. [🔄 CI/CD Integration TODO](https://github.com/yourrepo/playwright-workshop/ci-cd.md)
+10. [🛠️ Practical Examples TODO](https://github.com/yourrepo/playwright-workshop/practical-examples.md)
+11. [🐞 Debugging Tips TODO](https://github.com/yourrepo/playwright-workshop/debugging.md)
+12. [📊 Reporting & Metrics TODO](https://github.com/yourrepo/playwright-workshop/reporting.md)
+13. [🔗 Useful Resources TODO](https://github.com/yourrepo/playwright-workshop/resources.md)
 
 ---
 
